@@ -1,22 +1,5 @@
 var now = dayjs();
-var hour9Button = document.getElementById('hr9b');
-var hour10Button = document.getElementById('hr10b');
-var hour11Button = document.getElementById('hr11b');
-var hour12Button = document.getElementById('hr12b');
-var hour13Button = document.getElementById('hr13b');
-var hour14Button = document.getElementById('hr14b');
-var hour15Button = document.getElementById('hr15b');
-var hour16Button = document.getElementById('hr16b');
-var hour17Button = document.getElementById('hr17b');
-var hour9Textarea = document.getElementById('hr9ta');
-var hour10Textarea = document.getElementById('hr10ta');
-var hour11Textarea = document.getElementById('hr11ta');
-var hour12Textarea = document.getElementById('hr12ta');
-var hour13Textarea = document.getElementById('hr13ta');
-var hour14Textarea = document.getElementById('hr14ta');
-var hour15Textarea = document.getElementById('hr15ta');
-var hour16Textarea = document.getElementById('hr16ta');
-var hour17Textarea = document.getElementById('hr17ta');
+
 //dayjs.extend(relativeTime)
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
